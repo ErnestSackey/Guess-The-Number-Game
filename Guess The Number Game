@@ -49,4 +49,4 @@ def game():
     print(f'Great {name}! Game Restarted')
     game()
 
-game()
+game() #Call the game() function to start game
