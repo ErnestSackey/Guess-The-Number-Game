@@ -1,2 +1,2 @@
 # Guess-The-Number-Game
-This project was a preject as pact of training in the python. This entails the use of while loop, conditions statement, creating functions
+As part of improving my python skills I created this game. This entails the use of while loop, conditions statement, creating functions as well as handling user input.
